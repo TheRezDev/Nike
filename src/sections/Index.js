@@ -8,13 +8,12 @@ import Subscribe from './Subscribe.jsx';
 import Footer from './Footer.jsx';
 
 export {
-    Hero, 
-    PopularProducts, 
-    SuperQualities, 
-    Services, 
-    SpecialOffer,
-    CustomerReviews, 
-    Subscribe, 
-    Footer, 
-}
-
+   Hero,
+   PopularProducts,
+   SuperQualities,
+   Services,
+   SpecialOffer,
+   CustomerReviews,
+   Subscribe,
+   Footer,
+};

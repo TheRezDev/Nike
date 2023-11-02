@@ -6,6 +6,7 @@ import {
    truckFast,
    twitter,
 } from '../assets/icons';
+
 import {
    bigShoe1,
    bigShoe2,
@@ -34,6 +35,15 @@ export const navLinks = [
    {
       href: '#contact-us',
       label: 'Contact Us',
+   },
+];
+
+export const statistics = [
+   { value: '1k+', label: 'Brands' },
+   { value: '500k+', label: 'Shops' },
+   {
+      value: '250k+',
+      label: 'Customers',
    },
 ];
 

@@ -37,16 +37,15 @@ const SuperQualities = () => {
             <div className="mt-11">
                <Button label="View Details" />
             </div>
-
-            <div className="flex-1 flex justify-center items-center">
-               <img
-                  src={shoe8}
-                  alt="Shoe8"
-                  width={570}
-                  height={522}
-                  className="object-contain"
-               />
-            </div>
+         </div>
+         <div className="flex-1 flex justify-center items-center">
+            <img
+               src={shoe8}
+               alt="Shoe8"
+               width={570}
+               height={522}
+               className="object-contain"
+            />
          </div>
       </section>
    );
